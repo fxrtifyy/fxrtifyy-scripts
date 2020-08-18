@@ -1,2 +1,0 @@
-# fxrtifyy-scripts
-roblox scripts
